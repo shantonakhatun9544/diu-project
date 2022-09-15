@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    background-color: black;
+
+}
+body{
+    background-color: bisque;
+    background-image: url(download.jfif);
+    background-repeat: no-repeat;
+    background-position:bottom;
+
+}
+.p1{
+    
+    border: 5px solid red;
+    border-radius: 15px;
+
+}
+#p2{
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue;
+}
