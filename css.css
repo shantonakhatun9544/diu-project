@@ -1,0 +1,10 @@
+body{
+  background-color: blue;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+div{
+  animation: alternate-reverse;
+  text-shadow: 0.5pc;
+}
